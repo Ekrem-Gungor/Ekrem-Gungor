@@ -17,7 +17,7 @@ I am especially interested in software that solves real operational problems: au
 
 ## Selected work
 
-### Retivexa e-Ledger Storage Platform
+### [Retivexa — Technical Case Study](https://github.com/Ekrem-Gungor/retivexa-case-study)
 
 A .NET 9 platform that discovers e-Ledger files in customer environments and transfers them securely to a central system.
 
@@ -28,6 +28,7 @@ A .NET 9 platform that discovers e-Ledger files in customer environments and tra
 - Persistent delivery queue and restart recovery
 - WiX-based MSI packaging
 - 568 passing automated tests in the latest verified baseline
+- Public architecture, security, reliability, and verification case study
 
 ### Orka Migration Assistant
 
@@ -48,7 +49,7 @@ A bot and web control platform for managing Discord servers.
 - React dashboard
 - Docker Compose and Traefik deployment
 
-> Some production-oriented projects are maintained in private repositories. Architecture case studies and technical demonstrations are available when appropriate.
+> Production source code remains private where appropriate; public architecture case studies document the engineering decisions and verified outcomes.
 
 ## Core stack
 
