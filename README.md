@@ -55,7 +55,7 @@ A bot and web control platform for managing Discord servers.
 
 ## Core stack
 
-`C#` · `.NET` · `ASP.NET Core` · `Web API` · `Entity Framework Core` · `SQL Server` · `PostgreSQL` · `Redis` · `xUnit` · `Docker` · `Linux` · `Traefik`
+`C#` · `.NET` · `ASP.NET Core` · `Web API` · `SignalR` · `Entity Framework Core` · `SQL Server` · `PostgreSQL` · `Redis` · `xUnit` · `Docker` · `Linux` · `Traefik`
 
 ## Additional experience
 
