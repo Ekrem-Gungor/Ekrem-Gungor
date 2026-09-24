@@ -30,14 +30,16 @@ A .NET 9 platform that discovers e-Ledger files in customer environments and tra
 - 568 passing automated tests in the latest verified baseline
 - Public architecture, security, reliability, and verification case study
 
-### Orka Migration Assistant
+### [Orka Migration Assistant — Technical Case Study](https://github.com/Ekrem-Gungor/orka-migration-assistant-showcase)
 
 A Windows application that standardizes SQL Server migration operations for ORKA environments.
 
-- SQL instance validation and database discovery
-- Batch backup, manifest generation, and package creation
-- Target SQL Server preparation and batch restore workflows
-- Layered architecture, structured logging, and automated tests
+- SQL instance validation and user database discovery
+- Batch backup, manifest, ZIP packaging, and migration handoff
+- Silent SQL Server setup with fail-fast step orchestration
+- Package validation and database restore with logical file relocation
+- Layered architecture, structured logging, and operator-focused WinForms workflows
+- Public architecture, migration workflow, and implementation-boundary case study
 
 ### DiscordServerPilot
 
