@@ -17,6 +17,18 @@ I am especially interested in software that solves real operational problems: au
 
 ## Selected work
 
+### [Siglora — Real-Time Chat Platform](https://github.com/Ekrem-Gungor/dotnet-realtime-chat)
+
+A public full-stack messaging platform that demonstrates authenticated and resilient real-time communication.
+
+- .NET 10, ASP.NET Core Web API, SignalR, React, and TypeScript
+- ASP.NET Core Identity and JWT authentication through an HttpOnly browser cookie
+- SQL Server persistence with Redis-backed message history and atomic per-user quotas
+- Automatic reconnect, connection-aware multi-tab presence, and message de-duplication
+- RFC Problem Details, FluentValidation, xUnit, Vitest, and Testing Library
+- Multi-stage Docker images, Nginx reverse proxy, Docker Compose, and GitHub Actions
+- [Public v1.0.0 release](https://github.com/Ekrem-Gungor/dotnet-realtime-chat/releases/tag/v1.0.0)
+
 ### [Retivexa — Technical Case Study](https://github.com/Ekrem-Gungor/retivexa-case-study)
 
 A .NET 9 platform that discovers e-Ledger files in customer environments and transfers them securely to a central system.
@@ -59,7 +71,7 @@ A bot and web control platform for managing Discord servers.
 
 ## Additional experience
 
-`React` · `Vite` · `JavaScript` · `MinIO` · `Serilog` · `Prometheus` · `Grafana` · `Loki` · `Cloudflare`
+`React` · `TypeScript` · `Vite` · `JavaScript` · `GitHub Actions` · `Nginx` · `MinIO` · `Serilog` · `Prometheus` · `Grafana` · `Loki` · `Cloudflare`
 
 ## Contact
 
