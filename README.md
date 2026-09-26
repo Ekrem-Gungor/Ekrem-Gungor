@@ -29,6 +29,17 @@ A public full-stack messaging platform that demonstrates authenticated and resil
 - Multi-stage Docker images, Nginx reverse proxy, Docker Compose, and GitHub Actions
 - [Public v1.0.0 release](https://github.com/Ekrem-Gungor/dotnet-realtime-chat/releases/tag/v1.0.0)
 
+### [e-Defter Local Viewer](https://github.com/Ekrem-Gungor/edefter-local-viewer)
+
+An offline, single-file browser tool for inspecting Turkish e-Ledger journal and general ledger XML files without uploading customer data.
+
+- Secure XML parsing with DTD/entity rejection, a 10 MiB input limit, and namespace/document-type validation
+- Taxpayer, accountant, document, account total, and signature metadata reporting
+- Safe DOM rendering with a restrained, print-friendly corporate interface
+- Vanilla JavaScript, Vite, Vitest, synthetic fixtures, coverage checks, and GitHub Actions
+- Portable HTML distribution with a published SHA-256 checksum
+- [Public v1.0.0 release](https://github.com/Ekrem-Gungor/edefter-local-viewer/releases/tag/v1.0.0)
+
 ### [Retivexa — Technical Case Study](https://github.com/Ekrem-Gungor/retivexa-case-study)
 
 A .NET 9 platform that discovers e-Ledger files in customer environments and transfers them securely to a central system.
